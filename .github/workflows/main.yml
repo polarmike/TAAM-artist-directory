@@ -16,15 +16,12 @@ jobs:
       - name: Update JSON
         env:
           WEBFLOW_API_TOKEN: ${{ secrets.WEBFLOW_API_TOKEN }}
-        run: |
-          node fetch-webflow.js || exit 1
+        run: node fetch-webflow.js
       - name: Commit and Push
         if: success()
         run: |
-          if [ -f data.json ]; then
-            git config --global user.name 'GitHub Action'
-            git config --global user.email 'action@github.com'
-            git add data.json
-            git commit -m "Update data"
-            git push
-          fi
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add .
+          git commit -m "Update data and dependencies"
+          git push
