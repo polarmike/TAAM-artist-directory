@@ -2,14 +2,15 @@ import fetch from 'node-fetch';
 import { writeFileSync } from 'fs';
 
 const WEBFLOW_API_TOKEN = process.env.WEBFLOW_API_TOKEN;
+const COLLECTION_ID = '66a51b9eab07bc7970dbfa3e';
 
 async function fetchWebflowData() {
   try {
-    const response = await fetch('https://api.webflow.com/sites', {
+    console.log('Using token:', WEBFLOW_API_TOKEN.slice(0, 5) + '...');
+    
+    const response = await fetch(`https://api.webflow.com/v2/collections/${COLLECTION_ID}/items`, {
       headers: {
-        'Authorization': `Bearer ${WEBFLOW_API_TOKEN}`,
-        'accept-version': '1.0.0',
-        'Content-Type': 'application/json'
+        'Authorization': `Bearer ${WEBFLOW_API_TOKEN}`
       }
     });
     
@@ -17,7 +18,7 @@ async function fetchWebflowData() {
     const data = await response.json();
     console.log('Response:', data);
   } catch (error) {
-    console.error('Error:', error.message);
+    console.error('Error:', error);
     process.exit(1);
   }
 }
