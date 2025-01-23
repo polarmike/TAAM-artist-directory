@@ -13,20 +13,16 @@ async function fetchWebflowData() {
     });
     
     const data = await response.json();
-    console.log('First item fieldData:', data.items[0].fieldData);
     
-    const processedData = data.items.map(item => {
-      console.log('Processing item:', item.fieldData);
-      return {
-        realName: item.fieldData.RealName,
-        artistName: item.fieldData.ArtistName,
-        profileImage: item.fieldData.ProfileImage,
-        isGoldenTicket: item.fieldData.isGoldenTicket,
-        isFeaturedArtist: item.fieldData.isFeaturedArtist, 
-        isTakeoverArtist: item.fieldData.isTakeoverArtist,
-        url: item.fieldData.CustomLandingPage || item.fieldData.Slug
-      };
-    });
+    const processedData = data.items.map(item => ({
+      realName: item.fieldData.realname,
+      artistName: item.fieldData.artistname,
+      profileImage: item.fieldData.profileimg,
+      isGoldenTicket: item.fieldData.isgoldenticket,
+      isFeaturedArtist: item.fieldData.isfeatureartis,
+      isTakeoverArtist: item.fieldData.istakeoverartist,
+      url: item.fieldData.customlandingpage || item.fieldData.slug
+    }));
 
     writeFileSync('data.json', JSON.stringify(processedData, null, 2));
   } catch (error) {
