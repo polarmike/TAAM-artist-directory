@@ -16,7 +16,13 @@ async function fetchWebflowData() {
   );
   
   const data = await response.json();
+  console.log('API Response:', data); // Debug log
   
+  if (!data.items) {
+    console.error('No items in response:', data);
+    return;
+  }
+
   const processedData = data.items.map(item => ({
     realName: item.RealName,
     artistName: item.ArtistName,
