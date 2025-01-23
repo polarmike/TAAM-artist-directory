@@ -5,24 +5,22 @@ const WEBFLOW_API_TOKEN = process.env.WEBFLOW_API_TOKEN;
 const COLLECTION_ID = '66a51b9eab07bc7970dbfa3e';
 
 async function fetchWebflowData() {
-  console.log('Token:', WEBFLOW_API_TOKEN ? 'Present' : 'Missing');
-  
   const response = await fetch(
     `https://api.webflow.com/collections/${COLLECTION_ID}/items`,
     {
       headers: {
         'Authorization': `Bearer ${WEBFLOW_API_TOKEN}`,
-        'accept-version': '1.0.0'
+        'accept-version': '1.0.0',
+        'Content-Type': 'application/json'
       }
     }
   );
   
   console.log('Response status:', response.status);
   const data = await response.json();
-  console.log('API Response:', JSON.stringify(data, null, 2));
   
   if (!data.items) {
-    throw new Error(`No items in response: ${JSON.stringify(data)}`);
+    throw new Error(`API Error: ${JSON.stringify(data)}`);
   }
 
   const processedData = data.items.map(item => ({
