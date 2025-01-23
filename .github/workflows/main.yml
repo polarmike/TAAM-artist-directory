@@ -9,18 +9,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Setup Node
-        uses: actions/setup-node@v2
+      - uses: actions/setup-node@v2
         with:
           node-version: '16'
-      - name: Install Dependencies
-        run: npm install node-fetch
+      - run: npm install node-fetch
       - name: Update JSON
         env:
           WEBFLOW_API_TOKEN: ${{ secrets.WEBFLOW_API_TOKEN }}
         run: |
-          node fetch-webflow.js
+          node fetch-webflow.js || exit 1
       - name: Commit and Push
+        if: success()
         run: |
           if [ -f data.json ]; then
             git config --global user.name 'GitHub Action'
@@ -28,7 +27,4 @@ jobs:
             git add data.json
             git commit -m "Update data"
             git push
-          else
-            echo "data.json not found, skipping commit"
-            exit 1
           fi
