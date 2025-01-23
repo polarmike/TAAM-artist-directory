@@ -6,17 +6,26 @@ const COLLECTION_ID = '66a51b9eab07bc7970dbfa3e';
 
 async function fetchWebflowData() {
   try {
-    console.log('Using token:', WEBFLOW_API_TOKEN.slice(0, 5) + '...');
-    
     const response = await fetch(`https://api.webflow.com/v2/collections/${COLLECTION_ID}/items`, {
       headers: {
         'Authorization': `Bearer ${WEBFLOW_API_TOKEN}`
       }
     });
     
-    console.log('Status:', response.status);
     const data = await response.json();
-    console.log('Response:', data);
+    
+    const processedData = data.items.map(item => ({
+      realName: item.fieldData.RealName,
+      artistName: item.fieldData.ArtistName,
+      profileImage: item.fieldData.ProfileImage,
+      isGoldenTicket: item.fieldData.isGoldenTicket,
+      isFeaturedArtist: item.fieldData.isFeaturedArtist, 
+      isTakeoverArtist: item.fieldData.isTakeoverArtist,
+      url: item.fieldData.CustomLandingPage || item.fieldData.Slug
+    }));
+
+    writeFileSync('data.json', JSON.stringify(processedData, null, 2));
+    console.log('Data saved to data.json');
   } catch (error) {
     console.error('Error:', error);
     process.exit(1);
