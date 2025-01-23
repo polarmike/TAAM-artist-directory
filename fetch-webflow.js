@@ -5,6 +5,8 @@ const WEBFLOW_API_TOKEN = process.env.WEBFLOW_API_TOKEN;
 const COLLECTION_ID = '66a51b9eab07bc7970dbfa3e';
 
 async function fetchWebflowData() {
+  console.log('Token:', WEBFLOW_API_TOKEN ? 'Present' : 'Missing');
+  
   const response = await fetch(
     `https://api.webflow.com/collections/${COLLECTION_ID}/items`,
     {
@@ -15,12 +17,12 @@ async function fetchWebflowData() {
     }
   );
   
+  console.log('Response status:', response.status);
   const data = await response.json();
-  console.log('API Response:', data); // Debug log
+  console.log('API Response:', JSON.stringify(data, null, 2));
   
   if (!data.items) {
-    console.error('No items in response:', data);
-    return;
+    throw new Error(`No items in response: ${JSON.stringify(data)}`);
   }
 
   const processedData = data.items.map(item => ({
@@ -33,7 +35,7 @@ async function fetchWebflowData() {
     url: item.CustomLandingPage || item.Slug
   }));
 
-  writeFileSync('data.json', JSON.stringify(processedData));
+  writeFileSync('data.json', JSON.stringify(processedData, null, 2));
 }
 
-fetchWebflowData();
+fetchWebflowData().catch(console.error);
