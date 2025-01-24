@@ -1,1 +1,47 @@
-
+[
+  {
+    "realName": "Vlady Dupuy",
+    "artistName": "Wuhey",
+    "profileImage": "https://ucarecdn.com/af0d662a-1674-4c13-8874-a41dfb945ff2/",
+    "isGoldenTicket": true,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "wuhey"
+  },
+  {
+    "realName": "VERONIKA PELL",
+    "artistName": "Mindeye",
+    "profileImage": "https://ucarecdn.com/d273572d-50c3-475e-820b-cba7f79b6642/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "mindeye"
+  },
+  {
+    "realName": " Kenny Friedman",
+    "artistName": " FPO Kenny",
+    "profileImage": "https://ucarecdn.com/9de63556-8cb6-4b96-ba1d-725462a0c2b5/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "fpo-kenny"
+  },
+  {
+    "realName": "Mike",
+    "artistName": "Mike",
+    "profileImage": "https://ucarecdn.com/5d107a98-819e-4d28-8843-7b984453b607/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "1722169195520"
+  },
+  {
+    "realName": "Mike",
+    "artistName": "grilly",
+    "profileImage": "https://ucarecdn.com/3671ed6a-0c12-4475-bbee-42aa6d8bf8fd/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "http://www.art-magazine.ai/artist-directory/landingpage/mike-the-best"
+  }
+]
