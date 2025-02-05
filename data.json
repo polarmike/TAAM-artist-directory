@@ -1,1 +1,731 @@
-[]
+[
+  {
+    "realName": "Liang Xiao",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/59fb46ce-3f8a-4e0f-b683-40f71fc96700/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "liang-xiao"
+  },
+  {
+    "realName": "Verena Haase",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/5877dcc1-e612-4310-80dd-265c974bc0e2/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "verena-haase"
+  },
+  {
+    "realName": "Espen Tversland",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/e3d80d40-ce20-4798-b51c-318deaf60d8a/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "espen-tversland"
+  },
+  {
+    "realName": "Beat Hochrainer",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/8f4c716a-221e-4148-be35-76dc0ef0508f/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "beat-hochrainer"
+  },
+  {
+    "realName": "The Many",
+    "artistName": "Swan Chen, Josh Paialii",
+    "profileImage": "https://ucarecdn.com/c75b6899-2bc3-4ae0-844d-ffdf7a6ab85c/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "swan-chen--josh-paialii"
+  },
+  {
+    "realName": "Mariana Revilla Howe",
+    "artistName": "Marianne PWL",
+    "profileImage": "https://ucarecdn.com/f527496f-0f31-4adc-8510-56a836da4c63/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "marianne-pwl"
+  },
+  {
+    "realName": "Stephanie Meisl",
+    "artistName": "s.myselle",
+    "profileImage": "https://ucarecdn.com/786169fc-73a7-4472-9d4d-0dec5e868836/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "s-myselle"
+  },
+  {
+    "realName": "Emrah Gonulkirmaz",
+    "artistName": "Gonulkirmaz",
+    "profileImage": "https://ucarecdn.com/a3d86c72-d029-43c1-afdd-e3d0251970b6/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "gonulkirmaz"
+  },
+  {
+    "realName": "Michela Nicchiotti",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/81e25126-d5ed-4df7-a2dc-1276cda67451/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "michela-nicchiotti"
+  },
+  {
+    "realName": "DIEGO DALCIN MARTINS",
+    "artistName": "DIEGO  MARTINS",
+    "profileImage": "https://ucarecdn.com/2c715ea5-4376-402f-9a4b-457d24348d65/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "diego--martins"
+  },
+  {
+    "realName": "Tery Spataro",
+    "artistName": "Tery Spataro",
+    "profileImage": "https://ucarecdn.com/fee6a4b9-f66b-4b46-b58b-b6b43653b2ac/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "tery-spataro"
+  },
+  {
+    "realName": "Heléna",
+    "artistName": "Cogliano",
+    "profileImage": "https://ucarecdn.com/2fe85717-661d-47b5-9774-e54644a6a88d/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "cogliano"
+  },
+  {
+    "realName": "Nadine Brase",
+    "artistName": "Nadine and the Machine",
+    "profileImage": "https://ucarecdn.com/8f1569f2-7e1f-4dee-9a82-b8648b75d846/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": true,
+    "isTakeoverArtist": false,
+    "url": "nadine-and-the-machine"
+  },
+  {
+    "realName": "frankie caradonna & lucia emanuela curzi",
+    "artistName": "COMASTUDIO/THECURATORSMILAN",
+    "profileImage": "https://ucarecdn.com/c7c07a62-1b17-4ad9-b074-e621a89762a9/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "comastudio-thecuratorsmilan"
+  },
+  {
+    "realName": "Roberto Avila",
+    "artistName": "Roberto Avila",
+    "profileImage": "https://ucarecdn.com/8a1e6bba-5cbd-4c77-b958-85b4e77ab46a/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "roberto-avila"
+  },
+  {
+    "realName": "Gena Kim",
+    "artistName": "G. Kim",
+    "profileImage": "https://ucarecdn.com/bd6780a6-0b0c-40d0-84bb-1e2ab168315b/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "g--kim"
+  },
+  {
+    "realName": "Manfred Berndtgen",
+    "artistName": "Plants and Stones",
+    "profileImage": "https://ucarecdn.com/98e123d0-6a4c-4019-bb76-421f826b2d07/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "plants-and-stones"
+  },
+  {
+    "realName": "Philipp Schreier",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/62f182d2-f532-4c5c-ad89-05d8dccb1ab5/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "philipp-schreier"
+  },
+  {
+    "realName": "Joshua Eaves",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/f548d0bd-87fb-4f80-9f99-273748b99c4f/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "joshua-eaves"
+  },
+  {
+    "realName": "Bruce Baryla",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/2b9c5f50-8ffd-45aa-932e-61e7b5947c6e/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "bruce-baryla"
+  },
+  {
+    "realName": "Stepan Kovalev",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/9033ff48-5791-4f24-9b1b-379ecbeabb86/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "stepan-kovalev"
+  },
+  {
+    "realName": "Juan Paredes",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/88762af2-a06b-4461-819b-d844f4f81477/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "juan-paredes"
+  },
+  {
+    "realName": "ARANCHA CUETO DELGADO",
+    "artistName": "@electryc_ lady",
+    "profileImage": "https://ucarecdn.com/10b9d4dc-c28d-458b-a2c5-7c37df752ca5/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "electryc--lady"
+  },
+  {
+    "realName": "Roosmarijn Hobo",
+    "artistName": "Rose",
+    "profileImage": "https://ucarecdn.com/bf41f451-2028-454b-bbfc-7dc8a36f3da2/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "rose"
+  },
+  {
+    "realName": "Samira Marke",
+    "artistName": "Funky Nanas",
+    "profileImage": "https://ucarecdn.com/d7c59f15-880b-4142-adf8-b3772a59dbdb/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "funky-nanas"
+  },
+  {
+    "realName": "Maarten Bloemen",
+    "artistName": "Flowers In Dutch",
+    "profileImage": "https://ucarecdn.com/a73ba2bb-11b0-4972-b101-5d4ff0973bd7/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "flowers-in-dutch"
+  },
+  {
+    "realName": "Irati Azpeitia Orobengoa (curator)",
+    "artistName": "Ricardo Arispe (artist)",
+    "profileImage": "https://ucarecdn.com/c966812e-a766-4986-9f05-5508d4979454/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "ricardo-arispe--artist"
+  },
+  {
+    "realName": "Louis-Paul Caron",
+    "artistName": "Louis-Paul Caron",
+    "profileImage": "https://ucarecdn.com/b12815cb-4c7d-4c0d-8dfb-24b3531deed4/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": true,
+    "isTakeoverArtist": false,
+    "url": "louis-paul-caron"
+  },
+  {
+    "realName": "Jireh Grace Pihoc",
+    "artistName": "Jireh Grace Pihoc",
+    "profileImage": "https://ucarecdn.com/6834bbd4-9c6a-4f71-bb45-4febe5f5d796/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "jireh-grace-pihoc"
+  },
+  {
+    "realName": "Signe Reibisch",
+    "artistName": "Signe Reibisch",
+    "profileImage": "https://ucarecdn.com/4d181b5d-357d-4acd-aed8-a119dd908fc1/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "signe-reibisch"
+  },
+  {
+    "realName": "Sabine Mai",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/13d82601-28c8-420b-93cc-f07af640be01/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "sabine-mai"
+  },
+  {
+    "realName": "Ember Henderson",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/016f86b8-001e-4759-b614-e016cc65d2a1/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "ember-henderson"
+  },
+  {
+    "realName": "Jacob Fletcher",
+    "artistName": "JDOTF",
+    "profileImage": "https://ucarecdn.com/d0dcb3d7-46e8-4bf2-a2fd-92b82d0b3fa9/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "jdotf"
+  },
+  {
+    "realName": "Johannes López Ayala",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/a955d14f-8158-4fa8-869b-62b9ea9459d2/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "johannes-lopez-ayala"
+  },
+  {
+    "realName": "Orien B Higgins",
+    "artistName": "Engelstein",
+    "profileImage": "https://ucarecdn.com/9a5b3deb-65d3-42dd-be59-efaa7ffed3dd/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "engelstein"
+  },
+  {
+    "realName": "Johannes Postma",
+    "artistName": "Iohannez",
+    "profileImage": "https://ucarecdn.com/2ddc71e5-7ff8-4b10-a0f1-af06f0516003/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "iohannez"
+  },
+  {
+    "realName": "MARIO BARBIERI",
+    "artistName": "MARIO BARBIERI",
+    "profileImage": "https://ucarecdn.com/e9a5d746-25ed-45f0-9e99-a7386cca3c6a/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "mario-barbieri"
+  },
+  {
+    "realName": "MASAKO FUKUSHIMA",
+    "artistName": "NewForever",
+    "profileImage": "https://ucarecdn.com/7008097b-2bd4-44c6-a417-6149656ae3c9/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "newforever"
+  },
+  {
+    "realName": "Vanessa Couturier",
+    "artistName": "Space Machina",
+    "profileImage": "https://ucarecdn.com/eecf0686-e402-471c-bafe-7be907367061/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "space-machina"
+  },
+  {
+    "realName": "James Joseph Rogalski",
+    "artistName": "Piscean Daydreams",
+    "profileImage": "https://ucarecdn.com/809beb38-6126-4a62-ae7c-3eaa2392e4ef/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "piscean-daydreams"
+  },
+  {
+    "realName": "mike kaestner",
+    "artistName": "wishfulpromptng",
+    "profileImage": "https://ucarecdn.com/3adc308a-0419-41a6-af2d-3b791c370254/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "wishfulpromptng"
+  },
+  {
+    "realName": "Jean-Michel FALCIASECCA",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/43d0a72d-aad0-4880-8455-4a8e635a6fa2/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "jean-michel-falciasecca"
+  },
+  {
+    "realName": "Oz Öçalan",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/98b6bc4e-e177-4221-9e3d-b7ce4120840d/",
+    "isGoldenTicket": true,
+    "isFeaturedArtist": true,
+    "isTakeoverArtist": false,
+    "url": "oz-ocalan"
+  },
+  {
+    "realName": "Matthias Adriano Wilhelm",
+    "artistName": "Hans K. Lichter",
+    "profileImage": "https://ucarecdn.com/2ae11f30-565e-419b-bdcd-da73e3e893bd/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "hans-k--lichter"
+  },
+  {
+    "realName": "David Mair",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/5a028b59-fbe8-4676-8a09-07aeb32d5c22/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "david-mair"
+  },
+  {
+    "realName": "Torsten Skoetz",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/43ca1d25-6150-40a2-bcbc-047d5a24af8b/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": true,
+    "isTakeoverArtist": false,
+    "url": "torsten-skoetz"
+  },
+  {
+    "realName": "Andrea Paoli",
+    "artistName": "Andrea Paoli",
+    "profileImage": "https://ucarecdn.com/fc079a33-82a8-4048-bd82-7237b84ef41b/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "andrea-paoli"
+  },
+  {
+    "realName": "Vibeke Bertelsen",
+    "artistName": "Vibeke Bertelsen (Udart)",
+    "profileImage": "https://ucarecdn.com/bb12a19c-4fc8-4131-a9e0-178ab7f5e25b/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "vibeke-bertelsen--udart"
+  },
+  {
+    "realName": "Daniel Cooper",
+    "artistName": "Dank Hooper",
+    "profileImage": "https://ucarecdn.com/e78f13ea-652e-46a1-92c2-f8c6511a555a/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": true,
+    "isTakeoverArtist": false,
+    "url": "dank-hooper"
+  },
+  {
+    "realName": "Markus Volmer",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/b20061df-e360-4a42-86a8-c16e9f551668/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "markus-volmer"
+  },
+  {
+    "realName": "sergio valsecchi",
+    "artistName": "SV75",
+    "profileImage": "https://ucarecdn.com/ed2144ee-3552-4828-8f4c-e0bf60909420/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "sv75"
+  },
+  {
+    "realName": "Palmer Schallon",
+    "artistName": "Palmer Schallon",
+    "profileImage": "https://ucarecdn.com/cd2bb41c-5264-44e4-8b5f-f88722e45fdf/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "palmer-schallon"
+  },
+  {
+    "realName": "Lars Nagler",
+    "artistName": "Lars Nagler",
+    "profileImage": "https://ucarecdn.com/6c35a894-0977-4ffc-bf3e-8c96f9302c66/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "lars-nagler"
+  },
+  {
+    "realName": "Silke Steinraths",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/6ed5743f-b720-4701-bc3b-f9f6baa0f6c3/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "silke-steinraths"
+  },
+  {
+    "realName": "Jens Windolf",
+    "artistName": "Jens Windolf",
+    "profileImage": "https://ucarecdn.com/4e765545-3be6-4bd2-a11a-e0f633813218/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "jens-windolf"
+  },
+  {
+    "realName": "Chad Lauffer",
+    "artistName": "Chad Lauffer",
+    "profileImage": "https://ucarecdn.com/1df1273b-4b78-49a5-a08f-099705526be1/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "chad-lauffer"
+  },
+  {
+    "realName": "Soraya Zoe Janser",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/5be0a8cf-6ad5-4593-b4cc-2f86185344f5/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": true,
+    "isTakeoverArtist": false,
+    "url": "soraya-zoe-janser"
+  },
+  {
+    "realName": "Serdar Ayvaz",
+    "artistName": "Serdar Ayvaz",
+    "profileImage": "https://ucarecdn.com/8a337b27-e3a1-4a3a-8ecb-fb59bce473e2/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": true,
+    "isTakeoverArtist": false,
+    "url": "serdar-ayvaz"
+  },
+  {
+    "realName": "Georg Andreas Suhr",
+    "artistName": "gas:ai",
+    "profileImage": "https://ucarecdn.com/02e45f92-ca01-4201-81e0-bcfabfac0c8c/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "gas-ai"
+  },
+  {
+    "realName": "Rita Rassenhövel",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/1716ff2a-65ba-415d-bd34-03f0f930f3b8/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "rita-rassenhovel"
+  },
+  {
+    "realName": "Vincent Mattina",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/f0c73d70-89f8-4ed4-ad75-2a8ec26d9c5c/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "vincent-mattina"
+  },
+  {
+    "realName": "Artur da Cruz Rangel",
+    "artistName": "Artur 'Kjá",
+    "profileImage": "https://ucarecdn.com/79e6c6ff-b5fd-47d7-92e5-1797f5b1c810/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": true,
+    "isTakeoverArtist": false,
+    "url": "artur-kja"
+  },
+  {
+    "realName": "Nahuel Javier Robles",
+    "artistName": "NathAce",
+    "profileImage": "https://ucarecdn.com/9edd1e54-1fb8-4c7b-9cc3-165d74289472/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "nathace"
+  },
+  {
+    "realName": "Nina Sabina Caballero",
+    "artistName": "Nina Sabina Caballero",
+    "profileImage": "https://ucarecdn.com/5d2bc30f-1a82-4c15-9a10-b7c8d230b901/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "nina-sabina-caballero"
+  },
+  {
+    "realName": "Michael Thomas Holstein",
+    "artistName": "MTHolstein",
+    "profileImage": "https://ucarecdn.com/f6497fdd-c2d3-4ba4-83dd-04d77864a1b7/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "mtholstein"
+  },
+  {
+    "realName": "Katherine Allbright",
+    "artistName": "Katherine Allbright",
+    "profileImage": "https://ucarecdn.com/bdcac654-5475-49bc-97c2-7db6f50e8b61/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "katherine-allbright"
+  },
+  {
+    "realName": "Joseph Schaal",
+    "artistName": "Ock",
+    "profileImage": "https://ucarecdn.com/21ffda79-e562-41a3-8abc-23ad7e1eb8ee/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "ock"
+  },
+  {
+    "realName": "Paul Kelley",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/fd1b39f9-fece-454e-8c6e-68e4bceb351b/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "paul-kelley"
+  },
+  {
+    "realName": "Marcos Ferreira",
+    "artistName": "Marcos Ferreira",
+    "profileImage": "https://ucarecdn.com/74965ec3-8178-4dfa-afb6-e1dffc55f9c5/",
+    "isGoldenTicket": true,
+    "isFeaturedArtist": true,
+    "isTakeoverArtist": false,
+    "url": "marcos-ferreira"
+  },
+  {
+    "realName": "Ciara McKelvey",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/8c98bdd5-e8ff-451b-8757-ddcc14f8aec2/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "ciara-mckelvey"
+  },
+  {
+    "realName": "Jens Rusch",
+    "artistName": "Jens Rusch",
+    "profileImage": "https://ucarecdn.com/aed55815-fe44-4a4f-96bb-86e9e070a689/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "jens-rusch"
+  },
+  {
+    "realName": "David Arthur Brown",
+    "artistName": "David Arthur Brown",
+    "profileImage": "https://ucarecdn.com/99533e79-f93b-48fa-bc0d-fcbde5d7cca6/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "david-arthur-brown"
+  },
+  {
+    "realName": "Ralph Hasenohr",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/442ce695-0e76-4da3-846d-cf264b0ba30f/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "ralph-hasenohr"
+  },
+  {
+    "realName": "Deniz Kozakiewicz",
+    "artistName": "D3NI2",
+    "profileImage": "https://ucarecdn.com/f232c651-208b-4127-9fd0-9c3ab99903df/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "d3ni2"
+  },
+  {
+    "realName": "Sarah Kastrau",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/8d22132e-77e8-4963-8a64-baf32287cb84/",
+    "isGoldenTicket": true,
+    "isFeaturedArtist": true,
+    "isTakeoverArtist": false,
+    "url": "sarah-kastrau"
+  },
+  {
+    "realName": "david bates jr",
+    "artistName": "3 hanover square apt 20e",
+    "profileImage": "https://ucarecdn.com/ae475608-6478-46f3-8970-61a25cfe33f3/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "3-hanover-square-apt-20e"
+  },
+  {
+    "realName": "Brent Ashe",
+    "artistName": "Brent Ashe",
+    "profileImage": "https://ucarecdn.com/4485c59f-65dc-4304-b3bb-84ef7d89426a/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "brent-ashe"
+  },
+  {
+    "realName": "Peter Trapasso",
+    "artistName": "Peter Trapasso",
+    "profileImage": "https://ucarecdn.com/09608160-387b-4bf8-b73d-6ddddb12ed2e/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "peter-trapasso"
+  },
+  {
+    "realName": "Julien Bonet",
+    "artistName": "Julien Bonet",
+    "profileImage": "https://ucarecdn.com/0ba6825f-f9ed-45df-8fef-b74d89ecba59/",
+    "isGoldenTicket": true,
+    "isFeaturedArtist": true,
+    "isTakeoverArtist": false,
+    "url": "julien-bonet"
+  },
+  {
+    "realName": "Mike BB King",
+    "artistName": "MChen",
+    "profileImage": "https://picsum.photos/500",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "mchen"
+  },
+  {
+    "realName": "profile",
+    "artistName": null,
+    "profileImage": "https://ucarecdn.com/844e8a6c-3ff4-406a-8aa2-d1b939da614f/",
+    "isGoldenTicket": false,
+    "isFeaturedArtist": false,
+    "isTakeoverArtist": false,
+    "url": "profile"
+  }
+]
