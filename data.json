@@ -2313,15 +2313,6 @@
     "url": "paul-kelley-bfde5"
   },
   {
-    "realName": "Marcos Ferreira",
-    "artistName": "Marcos Ferreira",
-    "profileImage": "https://ucarecdn.com/74965ec3-8178-4dfa-afb6-e1dffc55f9c5/",
-    "isGoldenTicket": true,
-    "isFeaturedArtist": true,
-    "isTakeoverArtist": false,
-    "url": "marcos-ferreira-f1ea7"
-  },
-  {
     "realName": "Frank Euler",
     "artistName": "Kjerr",
     "profileImage": "https://ucarecdn.com/675a74b8-5243-4bbf-9a2b-f7867753cf80/",
@@ -2619,15 +2610,6 @@
     "url": "d3ni2-3dee7"
   },
   {
-    "realName": "Sarah Kastrau",
-    "artistName": null,
-    "profileImage": "https://ucarecdn.com/8d22132e-77e8-4963-8a64-baf32287cb84/",
-    "isGoldenTicket": true,
-    "isFeaturedArtist": true,
-    "isTakeoverArtist": false,
-    "url": "sarah-kastrau-c7b58"
-  },
-  {
     "realName": "vlady dupuy",
     "artistName": "Wuh.ey",
     "profileImage": "https://ucarecdn.com/af0d662a-1674-4c13-8874-a41dfb945ff2/",
@@ -2698,15 +2680,6 @@
     "isFeaturedArtist": false,
     "isTakeoverArtist": false,
     "url": "irene-mogollon"
-  },
-  {
-    "realName": "Julien Bonet",
-    "artistName": "Julien Bonet",
-    "profileImage": "https://ucarecdn.com/0ba6825f-f9ed-45df-8fef-b74d89ecba59/",
-    "isGoldenTicket": true,
-    "isFeaturedArtist": true,
-    "isTakeoverArtist": false,
-    "url": "julien-bonet-68d57"
   },
   {
     "realName": "Peter Trapasso",
@@ -3456,7 +3429,6 @@
   },
   {
     "realName": "Sarah Kastrau",
-    "artistName": null,
     "profileImage": "https://ucarecdn.com/8d22132e-77e8-4963-8a64-baf32287cb84/",
     "isGoldenTicket": true,
     "isFeaturedArtist": true,
